@@ -1,4 +1,4 @@
-Absolutely. Here’s the **architecture diagram for the current MVP**, with the RAG pipeline, backend, storage, and frontend separated clearly.
+
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -249,5 +249,3 @@ LLM                                 Evidence selection
      ▼                                    ▼
 Answer + sources                    Verified citations
 ```
-
-**This is the diagram I'd put in your project README/project presentation.**
